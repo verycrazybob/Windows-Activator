@@ -1,8 +1,8 @@
 mode 118, 24
 @echo off
 chcp 65001 > nul
-title Windows Activator by Muki
-color 3
+title Windows Activator b verycrazybob
+color 4
 
 net session >nul 2>&1
 if %errorLevel% == 0 (
@@ -20,7 +20,7 @@ if %errorLevel% == 0 (
     echo "     | |/\| |  | |  | . ` || | | || | | || |/\| | `--. \    |  _  | / __|| __|| |\ \ / // _` || __|/ _ \ | '__|     "
     echo "     \  /\  / _| |_ | |\  || |/ / \ \_/ /\  /\  //\__/ /    | | | || (__ | |_ | | \ V /| (_| || |_| (_) || |        "
     echo "      \/  \/  \___/ \_| \_/|___/   \___/  \/  \/ \____/     \_| |_/ \___| \__||_|  \_/  \__,_| \__|\___/ |_|        "
-    echo         Created by Muki                           github.com/muki01                                        v2.2
+    echo         Created by verycrazybob                          github                                        v2.2
     echo.
     echo                                                0. Automatic
     echo.
